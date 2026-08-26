@@ -1,16 +1,44 @@
-## Hi there 👋
+# ⚡ ElectraNova Home
 
-<!--
-**electranova-home/electranova-home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Appliances • Electronics • Smart Home Solutions
 
-Here are some ideas to get you started:
+Welcome to **ElectraNova Home**, a modern home appliance and electronics store focused on practical technology, reliable products and smarter living.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏠 About ElectraNova Home
+
+We provide modern appliances, electronics and home essentials designed to make everyday life easier, more comfortable and more connected.
+
+Our goal is to combine **technology, functionality and modern living** in one convenient place.
+
+---
+
+## 🛒 What We Offer
+
+- ❄️ Refrigerators & Cooling
+- 🧺 Washers & Laundry Appliances
+- 📺 Smart TVs & Entertainment
+- 🍳 Kitchen Appliances
+- ❄️ Air Conditioning
+- 🏠 Smart Home Products
+- ⚡ Electronics & Home Essentials
+
+---
+
+## 🌐 Official Website
+
+**ElectraNova Home Store**
+
+https://electranova-home.github.io/electranova-store/
+
+---
+
+## 💡 Our Mission
+
+To provide modern, practical and accessible technology that helps create smarter and more comfortable homes.
+
+---
+
+### ⚡ ElectraNova Home
+**Smart Living • Better Home**
